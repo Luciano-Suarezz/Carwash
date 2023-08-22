@@ -1,0 +1,155 @@
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\obj\Debug\Proyecto.frmPrincipal.resources
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\bin\Debug\Zstandard.Net.dll
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\obj\Debug\Proyecto.frmUsuarios.resources
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\obj\Debug\Proyecto.Forms.frmSocios.resources
+C:\Users\Adnas\Desktop\Carpetas\mini proyecto v2\Proyecto\Proyecto\obj\Debug\Proyecto.Forms.frmTurnos.resources
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\bin\Debug\Zstandard.Net.dll
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.frmPrincipal.resources
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.frmUsuarios.resources
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.Forms.frmSuccess.resources
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.FrmPersona.resources
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.frmSocios.resources
+C:\Users\Adnas\Desktop\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.frmTurnos.resources
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\bin\Debug\Zstandard.Net.dll
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.FrmPersona.resources
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.frmPrincipal.resources
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.frmSocios.resources
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.Forms.frmSuccess.resources
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.frmTurnos.resources
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.frmUsuarios.resources
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Adnas\Desktop\Carpetas\Tesis final\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\Zstandard.Net.dll
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.FrmPersona.resources
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.frmPrincipal.resources
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.frmSocios.resources
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.Forms.frmSuccess.resources
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.frmTurnos.resources
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.frmUsuarios.resources
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Adnas\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Lucho\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Lucho\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucho\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Lucho\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\bin\Debug\Zstandard.Net.dll
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\obj\Debug\Proyecto.FrmPersona.resources
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\obj\Debug\Proyecto.frmPrincipal.resources
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\obj\Debug\Proyecto.frmSocios.resources
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\obj\Debug\Proyecto.Forms.frmSuccess.resources
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\obj\Debug\Proyecto.frmTurnos.resources
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\obj\Debug\Proyecto.frmUsuarios.resources
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Zoli\Desktop\vs\Fiverr - buyers codes\Proyecto\Proyecto\obj\Debug\Proyecto.pdb

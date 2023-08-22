@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Proyecto.Conexion">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAEAAAAABAAAAAAAAgARAAA=</HashCode>
+      <FileName>Clases\Conexion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Persona">
+    <Position X="0.5" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAAAAAACAAAAAgAAAAAAAAAAAAAAAAgAAAAI=</HashCode>
+      <FileName>Clases\Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Autos">
+    <Position X="3.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAABABAAAQAAAAAAAAAAAAAAAAAAAAAAgAAgAJAAI=</HashCode>
+      <FileName>Clases\Socios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Turnos">
+    <Position X="3.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEQAAAAEAAAkAAAAJAEAAgABAAIAAAgAAAAI=</HashCode>
+      <FileName>Clases\Turnos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.Usuarios">
+    <Position X="0.5" Y="5.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAQAAACEAAAAgAAAAAAAAAQCAAQEAgAEAgA=</HashCode>
+      <FileName>Clases\Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.controlAutos">
+    <Position X="11.75" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\controlAutos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.controlPersona">
+    <Position X="11.75" Y="6" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\controlPersona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.controlSesion">
+    <Position X="11.75" Y="2" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Control\controlSesion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.controlTurnos">
+    <Position X="11.75" Y="3.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\controlTurnos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.controlUsuarios">
+    <Position X="11.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\controlUsuarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.modeloAutos">
+    <Position X="6.75" Y="5.25" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAAAAAAAAAAAAAEAAAQAAAAAAAAAAAAIRAAA=</HashCode>
+      <FileName>Modelo\modeloAutos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.modeloPersona">
+    <Position X="6.75" Y="7.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>QAEAEAAAAAAAAgAEAAAAAEAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Modelo\modeloPersona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.modeloSesion">
+    <Position X="6.75" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAAAAAAACAAAAAEAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Modelo\modeloSesion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto.modeloUsuarios">
+    <Position X="6.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAAAAAEEAAAAAAEAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Modelo\modeloUsuarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
