@@ -1,4 +1,4 @@
-# Proyecto Final de Escuela Secundaria: Sistema de Gestión de Lavado de Autos
+# Sistema de Gestión de Lavado de Autos
 
 Este repositorio contiene el proyecto final de mi escuela secundaria
 Un Sistema de Gestión de Lavado de Autos desarrollado en C# y SQL. 
