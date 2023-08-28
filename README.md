@@ -28,6 +28,14 @@ Puedes importar esta base de datos a tu servidor SQL para tener acceso a los dat
 3. Abre el proyecto en tu entorno de desarrollo de C#.
 4. Compila y ejecuta la aplicación.
 
+## Showoff
+
+![Menu Login]([Image URL](https://i.imgur.com/BtzJXqL.png))
+![Menu Clientes]([Image URL](https://i.imgur.com/HNZN7wp.png))
+![Menu Socio]([Image URL](https://i.imgur.com/dDv3rGs.png))
+![Close Menu]([Image URL](https://i.imgur.com/MhwEeV1.png))
+
+
 ## To-Do
 
 A pesar de que el proyecto está funcional, hay áreas que pueden mejorarse:
