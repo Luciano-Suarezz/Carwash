@@ -30,10 +30,17 @@ Puedes importar esta base de datos a tu servidor SQL para tener acceso a los dat
 
 ## Showoff
 
-![Menu Login]([Image URL](https://i.imgur.com/BtzJXqL.png))
-![Menu Clientes]([Image URL](https://i.imgur.com/HNZN7wp.png))
-![Menu Socio]([Image URL](https://i.imgur.com/dDv3rGs.png))
-![Close Menu]([Image URL](https://i.imgur.com/MhwEeV1.png))
+Login menu                                                                                                                      
+![Menu Login](https://i.imgur.com/BtzJXqL.png)
+
+Menu clientes
+![Menu Clientes](https://i.imgur.com/HNZN7wp.png)
+
+Menu Socios
+![Menu Socio](https://i.imgur.com/dDv3rGs.png)
+
+Menu cerrado                                                                                                  
+![Close Menu](https://i.imgur.com/MhwEeV1.png)
 
 
 ## To-Do
